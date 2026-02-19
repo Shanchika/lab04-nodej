@@ -1,0 +1,22 @@
+{
+  "name": "lab04-nodej",
+  "version": "1.0.0",
+  "description": "SE3040 Lab 04 NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanchika/lab04-nodej.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Shanchika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanchika/lab04-nodej/issues"
+  },
+  "homepage": "https://github.com/shanchika/lab04-nodej#readme"
+}
